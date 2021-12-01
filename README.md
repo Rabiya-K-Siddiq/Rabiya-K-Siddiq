@@ -1,4 +1,4 @@
-header image generated using gh-readme-header-image-gen.glitch.me
+https://github.com/Rabiya-K-Siddiq/Rabiya-K-Siddiq/blob/main/header.png?raw=true
 <!--
 **Rabiya-K-Siddiq/Rabiya-K-Siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
