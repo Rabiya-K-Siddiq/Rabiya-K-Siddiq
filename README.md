@@ -1,8 +1,6 @@
-https://github.com/Rabiya-K-Siddiq/Rabiya-K-Siddiq/blob/main/header.png?raw=true
-<!--
-**Rabiya-K-Siddiq/Rabiya-K-Siddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ https://github.com/Rabiya-K-Siddiq/Rabiya-K-Siddiq/blob/main/header.png?raw=true
 
-Here are some ideas to get you started:
+![Image](https://github.com/Rabiya-K-Siddiq/Rabiya-K-Siddiq/blob/main/header.jpg?raw=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
